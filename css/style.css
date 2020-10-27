@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+ background-color: blueviolet;
+ height: 100px;
+ text-align: center;
+}
+.header h1{
+    color:white;
+    padding-top: 30px;
+}
+.banner{
+    background-color: maroon;
+    text-align: center;
+    height: 300px;
+}
+.banner h1{
+    color: wheat;
+    padding-top: 120px;
+}
+.left{
+width: 50%;
+background-color: cyan;
+height: 200px;
+float: left;
+}
+.wrapper{
+    overflow: hidden;
+}
+.left h1{
+
+}
+.right{
+width: 50%;
+background-color:darkgreen;
+height: 200px;
+float: right;
+}
+.right h1{
+
+}
+.footer{
+background-color: red;
+height: 100px;
+}
